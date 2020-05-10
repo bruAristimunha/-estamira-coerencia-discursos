@@ -14,7 +14,7 @@
 ![pipeline](https://github.com/bruAristimunha/estamira-coerencia-discursos/raw/master/reports/figures/pipeline.png)
 
 
-## Esse repostitório é a implementação oficial do artigo apresentado no evento.  [[Artigo]](https://github.com/bruAristimunha/estamira-coerencia-discursos/blob/master/reports/ERAMIA_SP_2020.pdf) [[Citação]](#citação) 
+## Esse repostitório é a implementação oficial do artigo apresentado no evento.  [[Artigo]](https://github.com/bruAristimunha/estamira-coerencia-discursos/blob/master/reports/ERAMIA_SP_2020.pdf) [[Citação]](#citação) [[Avaliação]](https://github.com/bruAristimunha/estamira-coerencia-discursos/blob/master/Reviews.md)
 
 
 > **Abstract:** This article investigates disorders in natural speech through natural language processing techniques. We analyze the possible incoherent/schizophrenic speech using the Latent Semantic Analysis method and connectivity measures of the co-occurrence graph. Using these measures as attributes, we selected 4 classifiers to distinguish illogical speech patterns. The chosen __corpus__ comes from the lines of characters from the film Estamira (2004), which tells the life of a garbage collector from Rio de Janeiro. This choice is justified by the fact that the narrative is anchored in complex talks of its main character, Estamira, who for long periods conducts obscure dialogues. There is also a discursive clash between the character's lines and the eloquence of her family.
