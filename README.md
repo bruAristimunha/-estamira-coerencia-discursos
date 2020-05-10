@@ -79,3 +79,10 @@ Em formato latex:
  note     = {[para aparecer]},
 }
 ```
+## Passos Futuros
+- [ ] Avaliar a importância do que os classificadores estão aprendendo, visando um melhor entendimento dos padrões do discurso. 
+- [ ] Extração de atributos, com modelos de linguagem, \textit{e. g.}, BERT e FastText. 
+- [ ] Avaliar o contexto da detecção de anomalia, com classificação de uma classe. 
+- [ ] Incluir de atributos mais relacionados às características da doença, como contagem de pronomes e análise de sentimentos. 
+- [ ] Recorte de fala diferente, como o reconhecimento por timbre/imagem, 
+
