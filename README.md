@@ -10,6 +10,7 @@
 
 
 > Gif
+
 ![pipeline](https://github.com/bruAristimunha/estamira-coerencia-discursos/raw/master/reports/figures/pipeline.png)
 
 
