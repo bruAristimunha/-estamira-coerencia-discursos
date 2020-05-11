@@ -8,8 +8,13 @@
 
 > <sup>1</sup> Centro de Matemática, Computação e Cognição (CMCC), Universidade Federal do ABC (UFABC), Rua Arcturus, 03. Jardim Antares, São Bernardo do Campo, CEP 09606-070, SP, Brasil.
 
+<p align="center">
+<img src="https://github.com/bruAristimunha/estamira-coerencia-discursos/raw/master/reports/figures/poster-estamira.jpg"> 
+</p>
 
-> Gif
+<p align="center">
+  Cartaz de Divulgação: Estamira (2004).
+</p>
 
 ![pipeline](https://github.com/bruAristimunha/estamira-coerencia-discursos/raw/master/reports/figures/pipeline.png)
 
