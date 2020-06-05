@@ -1,3 +1,5 @@
+# O código está sendo refatorado, quando se aproximar a realização do evento, ele estará pronto. Caso você esteja procurando o código definitivo, entre em contato pelo e-mail.
+
 <h1 align="center">
   <br> [ERAMIA 2020] Quem é Estamira? Uma análise da coerência dos discursos através de combinação de medidas para classificação de texto
   <br>
