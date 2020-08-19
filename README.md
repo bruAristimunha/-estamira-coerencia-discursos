@@ -54,6 +54,9 @@ pip install -r requirements.txt
 
 Você pode avaliar os resultados reportados seguindo o tutorial disponível no [jupyter-notebook](https://github.com/bruAristimunha/estamira-coerencia-discursos/blob/master/notebooks/Quem%20%C3%A9%20Estamira_Uma%20an%C3%A1lise%20da%20coer%C3%AAncia%20dos%20discursos%20atrav%C3%A9s%20de%20combina%C3%A7%C3%A3o%20de%20algoritmos%20para%20classifica%C3%A7%C3%A3o%20de%20texto.ipynb), ou então, empregar a ferramenta colab para reprodução em uma máquina virtual gratuita.
 
+<a href="https://colab.research.google.com/gist/bruAristimunha/2bb33f8a2c4b09e78ee4181edfdca763/quem-estamira_uma-an-lise-da-coer-ncia-dos-discursos-atrav-s-de-combina-o-de-algoritmos-para-classifica-o-de-texto.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+
 Ainda em implementação essa parte. Além do formato em jupyter-artigo, você também pode reproduzir via linha de comando cada das etapas: análise exploratória do conjunto de dados, extração de atributos, classificação e avaliação dos resultados. Ou então, executar toda a avaliação.
 
 ```
