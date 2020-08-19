@@ -1,5 +1,3 @@
-# O código está sendo refatorado, quando se aproximar a realização do evento, ele estará pronto. Caso você esteja procurando o código definitivo, entre em contato pelo e-mail.
-
 <h1 align="center">
   <br> [ERAMIA 2020] Quem é Estamira? Uma análise da coerência dos discursos através de combinação de medidas para classificação de texto
   <br>
@@ -54,9 +52,9 @@ pip install -r requirements.txt
 
 ## Treino e Avaliação
 
-Você pode avaliar os resultados reportados seguindo o tutorial disponível no [jupyter-notebook](https://github.com/bruAristimunha/estamira-coerencia-discursos/blob/master/notebooks/Quem%20%C3%A9%20Estamira_%20Uma%20an%C3%A1lise%20da%20coer%C3%AAncia%20dos%20discursos%20atrav%C3%A9s%20de%20combina%C3%A7%C3%A3o%20de%20algoritmos%20para%20classifica%C3%A7%C3%A3o%20de%20texto.ipynb), ou então, empregar a ferramenta colab para reprodução em uma máquina virtual gratuita.
+Você pode avaliar os resultados reportados seguindo o tutorial disponível no [jupyter-notebook](https://github.com/bruAristimunha/estamira-coerencia-discursos/blob/master/notebooks/Quem%20%C3%A9%20Estamira_Uma%20an%C3%A1lise%20da%20coer%C3%AAncia%20dos%20discursos%20atrav%C3%A9s%20de%20combina%C3%A7%C3%A3o%20de%20algoritmos%20para%20classifica%C3%A7%C3%A3o%20de%20texto.ipynb), ou então, empregar a ferramenta colab para reprodução em uma máquina virtual gratuita.
 
-Além do formato em jupyter-artigo, você também pode reproduzir via linha de comando cada das etapas: análise exploratória do conjunto de dados, extração de atributos, classificação e avaliação dos resultados. Ou então, executar toda a avaliação.
+Ainda em implementação essa parte. Além do formato em jupyter-artigo, você também pode reproduzir via linha de comando cada das etapas: análise exploratória do conjunto de dados, extração de atributos, classificação e avaliação dos resultados. Ou então, executar toda a avaliação.
 
 ```
 python src/eda.py 
